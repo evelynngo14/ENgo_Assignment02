@@ -6,6 +6,7 @@ import java.util.Scanner;
 //the central city and its total distance to all other cities.
 // test inputs:
 // 2.5 5 5.1 3 1 9 5.4 54 5.5 2.1
+
 public class q21 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
